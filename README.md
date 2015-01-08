@@ -1,7 +1,7 @@
 Git Game Finish Line
 ==========
 
-If you did not fork this repository from the terminal, then we are dissappointed in you!!
+If you did not fork this repository from the terminal, then we are disappointed in you!!
 
 However, if you did, then great Job!!
 You completed our Git Game!
