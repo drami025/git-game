@@ -1,7 +1,6 @@
 git-game
 ========
 
-``Level 8``
 
 Looks like you resolved your conflict and found our branch, congrats!!
 
