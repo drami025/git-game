@@ -1,3 +1,13 @@
+git-game
+
+
+Looks like you resolved your conflict and found our branch, congrats!!
+
+Hmm...it seems this branch has a file that was seen before in another branch.
+Do you "remember" what it is?
+I think this file has something to do with the next clue, but it seems to be very ugly looking.
+Maybe if we compare the "diff"erences between this file and the file from before we'll know where to go next...
+=======
 Git Game Finish Line
 ==========
 
@@ -19,9 +29,9 @@ Well you:
 - resolved merged conflicts
 - saw issues with naming tags and branches the same name
 - updated a local repository from a remote repository
- 
- Version control systems like git are extremely important tools to learn and use, 
- Especially when collaborating on projects with other developers. 
+
+ Version control systems like git are extremely important tools to learn and use,
+ Especially when collaborating on projects with other developers.
  It is our hope that you continue to practice your git skills so that you can one day become the ultimate git master!
 
  Thanks for playing!
